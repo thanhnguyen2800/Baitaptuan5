@@ -4,9 +4,7 @@ Một dự án Android đơn giản minh họa các kỹ thuật hiện đại t
 
 ## Ảnh chụp màn hình
 
-<p align="center">
-    <img width="322" alt="App Screenshot" src="./app/src/main/res/drawable/screenshot.png" />
-</p>
+
 
 ## ✨ Tính năng chính
 
