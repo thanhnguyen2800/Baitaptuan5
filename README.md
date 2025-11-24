@@ -4,6 +4,7 @@ Một dự án Android đơn giản minh họa các kỹ thuật hiện đại t
 
 ## Ảnh chụp màn hình
 
+<img width="619" height="1079" alt="Screenshot bai5" src="https://github.com/user-attachments/assets/6b3c3a9d-40e4-45cd-85a0-eae5315902ab" />
 
 
 ## ✨ Tính năng chính
